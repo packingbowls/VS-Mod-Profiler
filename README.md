@@ -4,4 +4,6 @@ This program is a CLI tool that organizes your Vintage Story mods across separat
 
 Upon first run, the program needs to create new directories in your /VintagestoryData/ folder. You can access these from inside the program or via explorer. Be sure to run the app as administrator. It relies on symlinks, something only programs with admin permissions can create/modify.
 
+If you add a mod to an already loaded profile, be sure to unload then load the profile again.
+
 If there's any bugs or suggestions, let me know on Discord @packingbowls
